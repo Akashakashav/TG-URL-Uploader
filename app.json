@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/URL_UPLOADER_KN_BOT",
+  "website": "https://github.com/NIKHIL5757H/TG-URL-Uploader",
+  "repository": "https://github.com/NIKHIL5757H/TG-URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,7 +24,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1410398720:AAGlBcQmCWNmqqrnrWqlUePc33dwy7tma3Q"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
@@ -32,15 +32,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2950848"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "0a891dc0033052047276bff861d957a7"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": ""
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
