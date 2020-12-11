@@ -70,11 +70,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/KN_BOTS'),
-                    InlineKeyboardButton('Other Bots', url='https://t.me/KN_BOTS')
+                    InlineKeyboardButton('Support Channel', url='https://t.me/KA_BOTS'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/KA_BOTS')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/KN_BOTS_SUPPORT'),
+                    InlineKeyboardButton('Support Group', url='https://t.me/KA_BOTS_SUPPORT'),
                     InlineKeyboardButton('CREATOR', url='https://t.me/Nikhil5757h')
                 ]
             ]
