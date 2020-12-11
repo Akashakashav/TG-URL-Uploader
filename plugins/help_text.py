@@ -75,7 +75,7 @@ async def start(bot, update):
                 ],
                 [
                     InlineKeyboardButton('Support Group', url='https://t.me/KA_BOTS_SUPPORT'),
-                    InlineKeyboardButton('CREATOR', url='https://t.me/Nikhil5757h')
+                    InlineKeyboardButton('CREATOR', url='https://t.me/Noob_kn')
                 ]
             ]
         ),
