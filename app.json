@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1171354752"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -49,7 +49,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "-1001404354200",
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
